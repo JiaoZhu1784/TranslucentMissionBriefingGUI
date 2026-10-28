@@ -1,0 +1,23 @@
+{
+	"TMBGUI_show_context" : "显示画面",
+	"TMBGUI_hide_context" : "隐藏画面",
+	"TMBGUI_character" : "角色",
+	"TMBGUI_toggle_panning" : "视图平移",
+	"TMBGUI_current_character" : "当前观战：",
+	"TMBGUI_nobody" : "无人",
+
+	"translucentmissionbriefinggui_menu_title" : "半透明任务简报",
+	"translucentmissionbriefinggui_menu_desc" : "配置半透明任务简报选项",
+
+	"tog_translucentmissionbriefinggui_fadeelements_title" : "元素淡入淡出",
+	"tog_translucentmissionbriefinggui_fadeelements_desc" : "决定要隐藏的元素是淡入/淡出，还是立即隐藏",
+
+	"sld_translucentmissionbriefinggui_fadeduration_title" : "淡入淡出持续时间",
+	"sld_translucentmissionbriefinggui_fadeduration_desc" : "决定元素淡入/淡出所需的时间，单位为秒。如果未启用“元素淡入淡出”，则此选项无效",
+
+	"tog_translucentmissionbriefinggui_autohidebackground_title" : "自动隐藏背景",
+	"tog_translucentmissionbriefinggui_autohidebackground_desc" : "决定是否在启用“显示上下文”按钮后立即自动隐藏背景",
+
+	"btn_translucentmissionbriefinggui_reset_title" : "重置为默认值",
+	"btn_translucentmissionbriefinggui_reset_desc" : "将此处所有选项重置为默认值"
+}
